@@ -65,7 +65,7 @@ auto main() -> int
 
 	while(true)
 	{
-		cout << "Guess a number between 1 to 100: " << generatedNumber << ": ";
+		cout << "Guess a number between 1 to 100: ";
 		cin >> playerInput;
 		
 
